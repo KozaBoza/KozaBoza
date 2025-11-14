@@ -1,5 +1,5 @@
 <img width="1002" height="688" alt="Screenshot 2025-11-14 at 11 59 55" src="https://github.com/user-attachments/assets/ae62b4ab-d82f-4d1c-89f9-96beccb884f2" />
-...and many more (but you have ask)
+...and many more (but you have to ask)
 
 
 ## Technologies & Tools {coding} ⋆｡°✩
@@ -20,5 +20,5 @@
   
 </div>
 <div> 
-  <h3 style="text-align:center; margin-right:30;">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ </h3>
+  <h3>˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ </h3>
 </div>

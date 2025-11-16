@@ -1,7 +1,7 @@
 <div align="center">
 
 # HIIII °❀.ೃ࿔* 
-
+<img width="1002" height="688" alt="Screenshot 2025-11-14 at 11 59 55" src="https://github.com/user-attachments/assets/ae62b4ab-d82f-4d1c-89f9-96beccb884f2" />
 <p>
   <a href="https://kozaboza.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
@@ -55,7 +55,7 @@ I'm a **Graphic Designer && Front-End Developer** who loves building funky, resp
 
 ---
 
-### **Latest Activity** 🚀
+### **⋆✴︎˚｡⋆  LATEST ⋆✴︎˚｡⋆ ** 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KozaBoza&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -68,5 +68,5 @@ I'm a **Graphic Designer && Front-End Developer** who loves building funky, resp
 </div>
 
 <div align="center">
-  <p>Thanks for stopping by! Let's connect and build something amazing. 💫</p>
+  <p>Thanks for stopping by! Reach me if u want to create something great :D </p>
 </div>

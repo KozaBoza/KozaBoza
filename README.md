@@ -35,7 +35,6 @@ I'm a **Graphic Designer && Front-End Developer** who loves building funky, resp
   <img src="https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="30" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="30" />
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="30" />
-  <img src="https://img.shields.io/badge/Expo-1F2327?logo=expo&logoColor=white" alt="Expo logo" title="Expo" height="30" />
 </div>
 <br>
 <div align="center">
